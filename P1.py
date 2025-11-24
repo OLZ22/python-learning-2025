@@ -1,2 +1,2 @@
-print("Hello,word")
+print("Hello,world")
 print((17 + 35) * 2)
