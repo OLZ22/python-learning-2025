@@ -14,3 +14,5 @@ nouvelle_campagne["test"] = "Cet un exo pour comprendre les dictionnaires."
 print(nouvelle_campagne)
 
 nouvelle_campagne["Test2"] = " Je viens d'ajouter une nouvelle  paire cle-valeur dont [test2] est la val "
+
+print(nouvelle_campagne)
