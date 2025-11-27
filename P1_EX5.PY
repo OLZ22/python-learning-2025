@@ -22,3 +22,7 @@ print(nouvelle_campagne)
 del nouvelle_campagne["Test2"]
 
 print(nouvelle_campagne)
+
+#divers test
+
+print(nouvelle_campagne.keys())
