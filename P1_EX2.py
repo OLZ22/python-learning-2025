@@ -1,7 +1,7 @@
 #F-Str
 Nom = "DUPONT"
 Prenom = "Marc"
-
+#Fonction f-string
 print(f"Bonjour, je m'appelle {Nom} {Prenom} et vous? ")
 
 
